@@ -1,8 +1,8 @@
 {
-  "name": "frontend-template",
-  "version": "0.0.0",
-  "description": "A template for frontend projects",
-  "main": "dist/index.bundle.js",
+  "name": "ascii-loader",
+  "version": "0.0.1",
+  "description": "An ASCII progress bar utility",
+  "main": "src/ascii.js",
   "scripts": {
     "watch": "webpack --watch",
     "build": "webpack",

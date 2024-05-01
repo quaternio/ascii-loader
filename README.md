@@ -1,6 +1,6 @@
-# Frontend Template #
+# ASCII Loader
 
-A template for frontend projects
+An ASCII progress bar utility.
 
 ### Contact
 Question? Contact tnoel@novadynamics.com
