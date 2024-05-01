@@ -25,4 +25,4 @@ parameter. To access the loader string representation maintained internally,
 call ```.getRepresentation()```.
 
 ## Contact
-Question? Contact thomas.c.noel@gmail.com
+Question? Contact quaternioid@gmail.com

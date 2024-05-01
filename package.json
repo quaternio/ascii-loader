@@ -1,12 +1,12 @@
 {
   "name": "ascii-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An ASCII progress bar utility",
   "main": "ascii.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Thomas Noel <thomas.c.noel@gmail.com>",
+  "author": "Thomas Noel <quaternioid@gmail.com>",
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {}
