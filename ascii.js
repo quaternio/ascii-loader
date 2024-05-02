@@ -34,8 +34,6 @@ class ASCIILoader extends EventEmitter {
     * "[==========]" 100%
     */
   updateRepresentation() {
-    console.log("Num ticks: ", this.numTicks);
-    console.log("Bar Length - Num ticks: ", this.barLength - this.numTicks);
     this.representation = "[" + "=".repeat(this.numTicks) + "-".repeat(this.barLength - this.numTicks) + "]";
   }
 
